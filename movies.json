@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Inception",
+        "releaseYear": "2010",
+        "genre": "Science Fiction, Action",
+        "coverUrl": "https://issa-movie-list.s3.amazonaws.com/inception.jpg"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "releaseYear": "1994",
+        "genre": "Drama, Crime",
+        "coverUrl": "https://issa-movie-list.s3.amazonaws.com/shawshank-redemption.jpg"
+    },
+    {
+        "title": "The Money",
+        "releaseYear": "2000",
+        "genre": "Drama",
+        "coverUrl": "https://issa-movie-list.s3.amazonaws.com/money.jpg"
+    }
+]
